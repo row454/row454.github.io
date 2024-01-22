@@ -1,0 +1,10 @@
+- getting over it and the beginner's guide. two games that explore similar topics in opposite ways, one being made for you, and one not made for you.
+- a furry reading of beach life in death
+- i sorted my steam library - what did i learn? the difference between best and favorites
+- the evolution of glass beach (so far)
+- bonnie, and being a child
+- my weird obsession with notation systems
+- ludonarrative harmony
+- knowledge based unlocks
+- on being human
+- gender identity in manga, from comedy (onimai), to romance (love me for who i am), to horror (inside mari)
