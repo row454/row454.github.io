@@ -1,0 +1,15 @@
+- getting over it and the beginner's guide. two games that explore similar topics in opposite ways, one being made for you, and one not made for you. both games are not fun, but are great despite it
+- a furry reading of beach life in death
+- i sorted my steam library - what did i learn? the difference between best and favorites
+- the evolution of glass beach (so far)
+- bonnie, and being a child
+- my weird obsession with notation systems
+- ludonarrative harmony
+- knowledge based unlocks
+- on being human
+- gender identity in manga, from comedy (onimai), to romance (love me for who i am), to horror (inside mari)
+- types of skill, depth vs broad vs consistent
+- how the move toward individual skill focused games hurts me, as a tryhard. (tryharding in games like tf2 or lethal is more fun than in overwatch or valorant, because the games are fun first, and competitive second)
+- why in stars and time is my favorite kind of horror game, one that we need more of.
+- should games be fun
+- what are games? if music is sound art, literature is word art, what makes art a game?
