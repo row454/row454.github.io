@@ -4,18 +4,4 @@
 entries:
   - title: welcome!
     entries:
-      - title: this is my website. im not sure what i'll do with this, but i know i will probably post thoughts here.
-      - title: it'll be nice to have a void to throw my thoughts into, that i can share with people if i want to. 
-      - title: im probably gonna start using this like my notes app on my phone.
-      - title: also, if you are reading this, congrats! not many people will see this, i'll probably only share the link with close friends, for a while.
-      - title: and, if you found it by accident, hello, welcome to my blog. this is where i, rowan, post things.
-  - title: "posts:"
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: see more
-      show_more_url: posts
-
-  - title: rss
-    url: feed.xml
-  
+      - title: this is my website. im not sure what i'll do with this. 
