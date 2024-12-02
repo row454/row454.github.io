@@ -13,3 +13,4 @@
 - why in stars and time is my favorite kind of horror game, one that we need more of.
 - should games be fun
 - what are games? if music is sound art, literature is word art, what makes art a game?
+- the importance of inconvenience video on youtube, read my comment there
